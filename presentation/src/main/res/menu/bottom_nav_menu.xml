@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_contador"
+        android:icon="@drawable/timer_24px"
+        android:title="Counter" />
+    <item
+        android:id="@+id/nav_quiz"
+        android:icon="@drawable/quiz_24px"
+        android:title="Quiz" />
+    <item
+        android:id="@+id/nav_shop"
+        android:icon="@drawable/shopping_bag_24px"
+        android:title="Shop" />
+    <item
+        android:id="@+id/nav_ruleta"
+        android:icon="@drawable/poker_chip_24px"
+        android:title="Roulette" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/account_circle_24px"
+        android:title="Profile" />
+</menu>
